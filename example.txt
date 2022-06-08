@@ -1,0 +1,59 @@
+{
+#align center
+#border 1 %
+#margin 1 1 1 1
+#padding 2 2 2 2
+$Text inside first block
+{
+#border 3 *
+#margin 1 1 1 1
+#padding 3 3 3 3
+#align center
+$Text inside second block
+{
+#align right
+$Text2 inside second block
+}
+{
+#align left
+$Text3 inside second block
+}
+}
+{
+#mask $
+#align center
+{
+#align right
+#margin 2 2 2 2
+#padding 1 1 1 1
+#border 2 +
+#width 40
+$sdfdfd
+{
+#align right
+#margin 1 1 1 1
+#border 1 #
+#width 20
+$newline
+}
+}
+$ZxCvBnM
+}
+}
+$QWERTYIUIP
+$newline
+{
+{
+#align right
+$right aligned
+}
+$ABCDESFDSDSDSD
+{
+#margin 2 3 2 3
+#padding 2 1 2 1
+#border 3 %
+#align center
+$1234
+}
+}
+}

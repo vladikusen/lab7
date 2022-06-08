@@ -1,0 +1,9 @@
+﻿  document.cpp
+  element.cpp
+C:\Users\grand\Documents\prog\lab7\element.cpp(214,65): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\grand\Documents\prog\lab7\element.cpp(242,66): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\grand\Documents\prog\lab7\element.cpp(263,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\grand\Documents\prog\lab7\element.cpp(339,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+C:\Users\grand\Documents\prog\lab7\element.cpp(295): warning C4715: 'Block::getAlignment': not all control paths return a value
+  lab7.vcxproj -> C:\Users\grand\Documents\prog\lab7\x64\Debug\lab7.exe
